@@ -9,14 +9,14 @@ My journey in tech has led me to develop a passion for cybersecurity, and I am n
 
 ## Skills
 
-| Skill                                         | Associated Project         |
-|-----------------------------------------------|----------------------------|
-|                                               |                            |
-|                                               |                            |
-|                                               |                            |
-|                                               |                            |
-|                                               |                            |
-|                                               |                            |
+| Skill                                               | Associated Project         |
+|-----------------------------------------------------|----------------------------|
+| Security: FIrewall, IDS/IPS, attack/victim machine  | Cyber Security Home Lab    |
+|                                                     |                            |
+|                                                     |                            |
+|                                                     |                            |
+|                                                     |                            |
+|                                                     |                            |
 
 ## Tools
 
@@ -43,4 +43,4 @@ My journey in tech has led me to develop a passion for cybersecurity, and I am n
 </div>
 
 ## Projects
-- 
+- Cyber Security Home Lab: I was able to use a service call Virtual Box where I was able to create virtual machines and implent my security skills. I created an attack machine, a victim machine, a firewall, and an intrusion detection and intrusion prevention system. During the beginning of this process I creating subnets for LAN and then for the WAN. I made sure to keep the firewall, the victim machine and the ids/ips on the same network which was on the private network and I gave the host the public network.
